@@ -1,2 +1,4 @@
-/datasets/snippets/snippets.db
+datasets/snippets/snippets.db
+# /datasets/snippets shoud be ingnored cause we already upload everythign we needed
+datasets/snippets/
 RagDataSetup/
