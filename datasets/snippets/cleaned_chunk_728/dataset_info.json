@@ -1,0 +1,44 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "id": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "snippet": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "language": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "repo_file_name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "github_repo_url": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "license": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "commit_hash": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "starting_line_number": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "chunk_size": {
+      "dtype": "int64",
+      "_type": "Value"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
