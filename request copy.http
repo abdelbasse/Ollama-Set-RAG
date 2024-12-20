@@ -1,14 +1,14 @@
-# POST http://161.35.65.177:8080/api/generate
-POST http://161.35.65.177:8080/api/embeddings
+# POST http://159.89.81.215:11434/api/generate
+POST http://159.89.81.215:11434/api/embeddings
 
 {
-  "model": "llama3.2:1b",
+  "model": "all-minilm",
   "prompt": "Why is the sky blue?"
 }
 
 # ~curl http://localhost:11434/api/generate -d '{
-#   "model": "all-minilm",
-#   "model": "starcoder2:latest",
+  # "model": "llama3.2:1b",
 #   "model": "tinyllama:latest",
+#   "model": "starcoder2:latest",
 #   "prompt": "The sky is blue because of Rayleigh scattering"
 # }'

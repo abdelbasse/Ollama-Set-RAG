@@ -1,4 +1,7 @@
 datasets/snippets/snippets.db
-# /datasets/snippets shoud be ingnored cause we already upload everythign we needed
+# /datasets/snippets    # shoud be ingnored cause we already upload everythign we needed 
+#                       # but now i need the fucking cleaned_chunk_0 to cleaned_chunk_745
 datasets/snippets/
 RagDataSetup/
+.venv/
+
